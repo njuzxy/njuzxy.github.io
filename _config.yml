@@ -6,7 +6,7 @@ paginate: 8
 comments: true
 permalink: /:title
 encoding: UTF-8
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 title: 云在青天水在瓶
 url: http://njuzxy.github.io/
@@ -23,4 +23,3 @@ myblog:
 
 categories: [web, tools, spark, new-spark, python, money, erlang, db, books]
 
-theme: jekyll-theme-slate
