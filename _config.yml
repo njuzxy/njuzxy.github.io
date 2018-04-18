@@ -1,1 +1,25 @@
-theme: jekyll-theme-slate
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+comments: true
+permalink: /:title
+encoding: UTF-8
+gems: [jekyll-paginate]
+
+title: 云在青天水在瓶
+url: http://njuzxy.github.io/
+feed: /atom.xml
+author_info: <a href="http://litaotao.github.io/">zxy</a>
+
+myblog:
+  gavatar: images/2.jpg
+  gpname: zxy
+  linkedin: http://www.linkedin.com/in/taotaoli
+  github: https://github.com/zxy
+  email: mailto:1757943205@qq.com
+  coverimgs: []
+  postbgimg: []
+
+categories: [web, tools, spark, new-spark, python, money, erlang, db, books]
