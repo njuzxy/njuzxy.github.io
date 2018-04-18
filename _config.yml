@@ -23,3 +23,5 @@ myblog:
   postbgimg: []
 
 categories: [web, tools, spark, new-spark, python, money, erlang, db, books]
+
+theme: jekyll-theme-merlot
