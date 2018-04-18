@@ -11,12 +11,11 @@ gems: [jekyll-paginate]
 title: 云在青天水在瓶
 url: http://njuzxy.github.io/
 feed: /atom.xml
-author_info: <a href="http://litaotao.github.io/">zxy</a>
+author_info: <a href="http://njuzxy.github.io/">zxy</a>
 
 myblog:
   gavatar: images/2.jpg
   gpname: zxy
-  linkedin: http://www.linkedin.com/in/taotaoli
   github: https://github.com/zxy
   email: mailto:1757943205@qq.com
   coverimgs: []
